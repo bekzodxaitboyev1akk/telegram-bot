@@ -1,0 +1,6 @@
+aiogram
+python-docx
+openpyxl
+PyPDF2
+xlrd
+pyxlsb
