@@ -13,7 +13,7 @@ from PyPDF2 import PdfReader
 import xlrd
 
 
-API_TOKEN = "8697966421:AAGqq4JimRDrjP0rswZCZz92U1gYYQtROao"
+API_TOKEN = "8697966421:AAEieWtbvFbH_Nc2sZQlWfeFUZu36QuILXw"
 ADMIN_ID = 8027087107
 CHANNEL = "@krilchadan_lotinchaga"
 
